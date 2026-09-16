@@ -1,0 +1,3 @@
+﻿question,choice1,choice2,choice3,choice4,correctIndex
+東京で一番人口が多い区は？,板橋区,世田谷区,足立区,文京区,1
+C#で文字列を扱う型は？,int,string,bool,char,1
