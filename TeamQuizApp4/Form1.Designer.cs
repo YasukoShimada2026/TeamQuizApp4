@@ -53,6 +53,7 @@
             answerButton1.TabIndex = 1;
             answerButton1.Text = "button1";
             answerButton1.UseVisualStyleBackColor = true;
+            answerButton1.Click += answerButton_Click;
             // 
             // answerButton2
             // 
@@ -62,6 +63,7 @@
             answerButton2.TabIndex = 2;
             answerButton2.Text = "button1";
             answerButton2.UseVisualStyleBackColor = true;
+            answerButton2.Click += answerButton_Click;
             // 
             // answerButton3
             // 
@@ -71,15 +73,17 @@
             answerButton3.TabIndex = 3;
             answerButton3.Text = "button1";
             answerButton3.UseVisualStyleBackColor = true;
+            answerButton3.Click += answerButton_Click;
             // 
             // answerButton4
             // 
-            answerButton4.Location = new Point(400, 248);
+            answerButton4.Location = new Point(394, 249);
             answerButton4.Name = "answerButton4";
             answerButton4.Size = new Size(94, 29);
             answerButton4.TabIndex = 4;
             answerButton4.Text = "button1";
             answerButton4.UseVisualStyleBackColor = true;
+            answerButton4.Click += answerButton_Click;
             // 
             // logListBox
             // 
