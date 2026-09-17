@@ -1,6 +1,5 @@
 using System;
 using System.Windows.Forms;
-using TeamQuizApp3;
 using TeamQuizApp4;
 
 namespace TeamQuizApp4
